@@ -1,0 +1,3002 @@
+[
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "How did technical analysis evolve from manual record keeping into a testable discipline?",
+    "back": "Analysts first recorded prices, highs, lows, and volume by hand to compare market behavior. Published services and computers expanded the number of series and tests, while modern practice added data controls, out of sample checks, costs, and monitoring. The purpose stayed the same: turn observations into evidence that can be rejected."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "What major ideas are associated with Charles Dow and later Dow Theory?",
+    "back": "Dow work with stock averages framed primary, secondary, and minor movements, confirmation between industrial and transportation activity, and the use of price and volume to judge market health. Later writers organized these observations into Dow Theory. Dow did not leave a complete trading system under that name."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "How does the Wyckoff framework organize a market campaign?",
+    "back": "It organizes ranges into accumulation, markup, distribution, and markdown. Tests, springs, and signs of strength or weakness help the analyst judge how supply is being absorbed or distributed. The claimed phase must be supported by price and volume evidence."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "What is the main benefit and main danger of Elliott Wave analysis?",
+    "back": "The Wave Principle can organize a complex price path into motive and corrective structures and define where the count fails. Its danger is a flexible count created after the move. A useful count must be stated in advance, follow the core rules, and include an invalidation price."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "How should a candidate evaluate a Gann relationship in an applied market decision?",
+    "back": "Gann work combines price, time, geometry, and numerical relationships such as angles, squares, retracements, and calendar observations. The analyst should require a repeatable entry, invalidation rule, and evaluation method. A geometric observation without those elements remains context rather than a complete trading method."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "Why do box size and reversal size matter in point and figure analysis?",
+    "back": "They decide which price changes appear on the chart. Changing either setting can change the columns, signal count, support and resistance readings, and price projection. Construction therefore shapes the evidence and must be stated before interpretation."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "What evidence standard does modern systematic practice add to traditional chart analysis?",
+    "back": "A rule must have a clear definition, an adequate sample, relevant market conditions, transaction costs, and out of sample evidence. The analyst also states what evidence would reject the rule. Familiar names or attractive historical charts are not enough."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "What does the premise that price discounts available information mean, and when does it weaken?",
+    "back": "The current trade reflects the choices buyers and sellers make after processing what they know and expect. It does not mean the price is always correct or that everyone has the same information. The premise weakens when information is hidden, the market is closed, or a quote is stale."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "Why may a price trend persist, and why is persistence not a promise?",
+    "back": "Slow information flow, gradual adoption, portfolio flows, risk limits, and reactions to recent prices can keep supply or demand moving in one direction. A trend remains temporary and probabilistic. A moving average can describe the trend but cannot prove the next return will have the same sign."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "What must an analyst test before treating a recurring chart pattern as useful evidence?",
+    "back": "Similar fear, greed, hesitation, imitation, and forced liquidation can leave similar footprints, but similarity is not identity. The analyst compares the present pattern with the volume, duration, location, and confirmation in the historical sample. The features that gave the pattern value must still be present."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "Which observable market behaviors provide evidence of supply and demand?",
+    "back": "Price, volume, gaps, range width, failed moves, and recovery speed show how buyers and sellers respond. Expanding volume on a breakout differs from falling volume, and a pullback that holds above a breakout differs from one that cuts through it. Several agreeing behaviors provide stronger evidence than one chart shape."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "If the first stock's volume falls from 3.0 million to 1.0 million while the second stock's rises from 2.5 million to 3.5 million, which has stronger volume confirmation and what are the ratios?",
+    "back": "The second stock's ratio is 3.5 / 2.5 = 1.4, while the first stock's ratio is 1.0 / 3.0 = one third. The second stock therefore shows stronger evidence of active demand. The evidence still needs price structure and later confirmation before it proves a lasting advance."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "What market conditions make technical evidence more reliable?",
+    "back": "Technical methods work best in liquid, freely traded markets with enough independent participants, accessible information, meaningful volume, and prices that can move with supply and demand. Depth and competition help one order or a fixed price from distorting the record. Thin markets, wide spreads, and no trade periods reduce reliability."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "A stock closes at 102 and then trades at 51 after a two for one split. How should the apparent 50 percent decline be corrected?",
+    "back": "The raw ratio is 51 / 102 = 0.50, but the split doubles the share count and halves the price per share. The earlier price should be adjusted to 51 for comparison, making the corrected ratio 51 / 51 = 1.00. The raw move is a capitalization change rather than a market collapse."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "Which data checks are needed before a technical pattern or backtest is trusted?",
+    "back": "The series must use comparable split and dividend adjustments, complete volume, consistent timestamps, and consistent session boundaries. Duplicate prints, missing bars, stale quotes, mixed reporting conventions, and survivorship bias can create false patterns. The data must represent the same economic series through time."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "How should technical evidence fit inside a broader investment decision?",
+    "back": "Technical evidence should define a setup, trigger, and invalidation within a stated market context. Fundamental, liquidity, portfolio, and risk evidence can confirm, delay, or reduce the action. Position size is set separately because a good chart cannot repair excessive risk."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "Why can a model with a positive historical result still fail in live trading?",
+    "back": "The model may be overfit to a sample, sensitive to nearby parameter values, or suited only to a market regime that has ended. Execution costs, slippage, crowding, and unavailable post signal prices can also erase the result. Live monitoring must compare current conditions with the model's domain."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 1,
+    "front": "A model completes 12 round trips with a cost of 0.15 percent on each entry and exit. If gross edge is 2.8 percentage points, what is the estimated net result?",
+    "back": "Total cost is 12 × 2 × 0.15 = 3.6 percentage points. The estimated net result is 2.8 - 3.6 = -0.8 percentage point before taxes and additional slippage. Positive gross signals do not make a process profitable after execution costs."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "What does beta measure in a benchmark return model?",
+    "back": "Beta measures the sensitivity of an investment's returns to benchmark returns. It is the covariance of the two return series divided by benchmark variance."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "How is Jensen's alpha calculated from portfolio return?",
+    "back": "Subtract the beta adjusted expected return from the actual portfolio return. The expected return is the riskless return plus beta times the benchmark return minus the riskless return."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "Why can positive active return occur with zero alpha?",
+    "back": "Active return is simply portfolio return minus benchmark return. A portfolio with beta above 1 can gain relative to the benchmark during a rally even when its return matches the amount explained by that higher exposure."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "A fund returns 14%, the benchmark returns 10%, the riskless return is 2%, and beta is 1.25. What are alpha and active return?",
+    "back": "Expected return is 2% plus 1.25 times 8%, or 12%. Alpha is 2 percentage points and active return is 4 percentage points."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "What information do the weak, semi strong, and strong forms of EMH treat as reflected in price?",
+    "back": "The weak form concerns past market data, the semi strong form concerns public information, and the strong form includes private information. Each form claims that dependable excess profit from that information set is difficult to obtain."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "How does the adaptive markets hypothesis describe market efficiency?",
+    "back": "Efficiency changes as investors make mistakes, learn, compete, and adapt. An edge can weaken as capital arrives, so a model must be monitored across changing market conditions."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "What role do investment horizons play in the fractal market hypothesis?",
+    "back": "Participants with different horizons can make a market more stable. Instability can rise when many participants crowd into the same horizon and react in a similar way."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "What must a technical analyst prove before calling a temporary supply imbalance an opportunity?",
+    "back": "The analyst must show that the imbalance is being absorbed and that stronger price behavior follows. Light selling volume, recovery of a key level, or a failed move can be evidence, but the setup still needs a defined invalidation point."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "How can a sharp price move caused by forced selling be distinguished from a rational repricing?",
+    "back": "Forced flow often reverses after volume falls and key levels are reclaimed. A rational repricing tends to hold or extend as participants update value. Random noise produces no dependable sequence."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "What different jobs do fundamental and technical analysts perform in fusion analysis?",
+    "back": "The fundamental analyst estimates business value, drivers, and catalysts. The technical analyst assesses current supply and demand, trend confirmation, timing, and invalidation."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "How can two analysts with opposite views still use fusion analysis productively?",
+    "back": "They can align their time horizon and benchmark, identify the evidence that would change each view, and build a conditional plan. A smaller position, a wait for stabilization, or a structural stop can combine their findings."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "What is anchoring bias in a market decision?",
+    "back": "Anchoring gives too much weight to an initial reference such as a purchase price, prior high, or round number. The chart can support the idea of clustered orders, but supply and demand evidence must confirm it."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "How does availability bias affect the estimate of a rare market event?",
+    "back": "A vivid recent event feels more likely, while an event absent from recent memory may feel nearly impossible. The analyst should use a longer history and measure the setup's base rate."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "How does representativeness bias create a chart reading error?",
+    "back": "A vivid or incomplete move may be treated as proof of a repeating pattern. The analyst should require a completed structure and compare the setup with its historical success rate in the current regime."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "How can confirmation bias weaken a technical review?",
+    "back": "The analyst may count supporting signals and ignore weakening breadth, poor volume, or failed resistance. Writing the invalidation rule before entry forces contrary evidence into the decision."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "What is the disposition effect and how can it harm position management?",
+    "back": "It is a loss aversion pattern in which investors sell winners early and hold losers to avoid realizing a loss. A predefined stop and a separate profit management rule reduce this emotional bias."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "What are the five stages of a market bubble?",
+    "back": "The stages are displacement, boom, euphoria, profit taking, and panic. They describe a possible sequence, but timing varies and a real market can skip or compress a stage."
+  },
+  {
+    "domain": "theory_and_history",
+    "chapter": 2,
+    "front": "What chart evidence is most useful near the transition from euphoria to profit taking?",
+    "back": "Watch for a parabolic price slope, failed breakouts, weakening breadth, lower quality leadership, heavier downside volume, and rising realized volatility. A single overbought reading is not enough."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What job should the highest timeframe serve in a top down chart process?",
+    "back": "It defines the broad market environment, the major trend, and the important invalidation level. Lower timeframes should refine structure and execution rather than replace that higher timeframe conclusion."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "How should an analyst choose the chart intervals for a trade?",
+    "back": "Choose intervals after defining the expected holding period. Use charts separated enough to answer different questions about strategy, structure, and tactical execution."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What does a daily pullback inside a weekly uptrend usually represent?",
+    "back": "It can be a normal countertrend move while the weekly structure remains intact. It becomes evidence of a larger reversal only when key higher timeframe support fails with follow through."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Why is timeframe shopping a process error?",
+    "back": "The analyst changes to a longer timeframe after a trade moves against the original plan. This uses hindsight to avoid a loss rather than testing a rule chosen before the trade."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Why do equal time bars contain unequal information?",
+    "back": "A fixed clock interval can contain very different amounts of volume, trades, and price movement. A quiet bar and an event driven bar may have the same duration but not the same information content."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "How do volume bars and time bars sample the market differently?",
+    "back": "Time bars form after a fixed clock interval, so their count is stable but activity varies. Volume bars form after a fixed amount of volume, so bar count varies with participation."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Why can including premarket trade change a daily candle?",
+    "back": "The added trades can change the open, high, low, close, and volume relative to a regular session only candle. The analyst must use one session definition consistently and state it."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What are three possible causes of a missing intraday bar?",
+    "back": "The market may have been closed, the data feed may have failed, or no trades may have occurred. These causes have different analytical meanings, so the analyst should identify the cause before repairing data."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Why is filling a missing price bar with the prior close dangerous?",
+    "back": "It invents a flat price and a false no trade interval. Moving averages, volume, range, and volatility can all become biased by the fabricated observation."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Why should two daily series use a common information cutoff in a short term comparison?",
+    "back": "Different closes can place market moving news in different bars. The mismatch can create false lead and lag patterns even when both daily charts look normal on their own."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Why is a dual price axis overlay a weak leadership comparison?",
+    "back": "The analyst can change each axis and change where the lines appear to cross. Rebase both series or use a ratio line so relative performance has a defined scale."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What does a rising ratio of asset A to benchmark B establish?",
+    "back": "It establishes that A is outperforming B over that interval. It does not prove that A is rising or that A has positive absolute momentum."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "An asset stays at 100 while its benchmark falls from 200 to 180. What is the new ratio and relative result from the old ratio of 0.50?",
+    "back": "The new ratio is 100 divided by 180, or 0.5556. That is an 11.1 percent rise, so the asset is outperforming even though its own price is unchanged."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What is a Time Price Opportunity in Market Profile?",
+    "back": "It marks that a price range traded during a defined time bracket. Stacked TPOs form a profile that shows how much time the auction spent at each price."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What is the point of control in a Market Profile?",
+    "back": "It is the price with the greatest number of TPOs in the profile, so it is the most accepted price for that sample. It is a location of acceptance, not automatically a price target."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "How is the value area described in common Market Profile teaching?",
+    "back": "It is the price band containing a chosen majority share of TPOs, often about 70 percent. The value area high and value area low mark its upper and lower edges."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "How do TPO profiles and volume profiles measure price differently?",
+    "back": "A TPO profile measures time spent at price. A volume profile measures traded quantity at price, so the two profiles can have different points of control and shapes."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What does sustained acceptance above prior value suggest?",
+    "back": "It suggests the auction is finding trade at higher prices and may be discovering a new value area. Repeated activity and a profile built above prior value support that conclusion."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What does a move above value followed by a quick return into value suggest?",
+    "back": "It suggests rejection of higher prices because trade above value did not persist. A single print above value is weaker evidence than repeated acceptance."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "How does arithmetic scale space price changes?",
+    "back": "Equal vertical distances represent equal dollar or point changes. A move from 20 to 40 has the same chart height as a move from 80 to 100."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "How does logarithmic scale space price changes?",
+    "back": "Equal vertical distances represent equal percentage changes. Doubling from 20 to 40 has the same height as doubling from 50 to 100."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Why does a constant percentage growth rate appear straight on a logarithmic chart?",
+    "back": "A constant compound growth rate adds equal log changes over equal periods. Logarithmic spacing converts those equal proportional changes into equal visual distances."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "A price rises from 20 to 40, then from 80 to 100. Why does the first move matter more on a log chart?",
+    "back": "The first move is a 100 percent gain while the second is a 25 percent gain. Equal 20 point gains occupy very different heights when percentage change is the vertical unit."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What does trendline slope mean on an arithmetic chart?",
+    "back": "It describes the change in dollars or points per bar. A steep arithmetic line means rapid price point change, not necessarily rapid compound return."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What does trendline slope mean on a logarithmic chart?",
+    "back": "It describes proportional or compound change per bar. A steep log line means rapid percentage change and should not be described as a dollar slope."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "When is logarithmic scale especially useful?",
+    "back": "It is useful for long histories, large price ranges, and comparisons where percentage change matters more than equal dollar steps. The scale should match the analytical question and the units of the target."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "How is an additive price target calculated after a range breakout?",
+    "back": "Measure the range in price points and add that distance to the breakout level. A range from 50 to 60 produces an upside additive target of 60 plus 10, or 70."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "How is a proportional upside target calculated after a range from 50 to 60?",
+    "back": "The range is a 20 percent gain, so repeating it from 60 gives 60 times 1.20, or 72. This method preserves percentage distance rather than point distance."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Why do a 10 point additive target of 70 and a proportional target of 72 differ?",
+    "back": "The additive method repeats 10 raw points. The proportional method repeats a 20 percent change and compounds it from a higher base."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Which projection method is visually consistent with a logarithmic chart?",
+    "back": "A proportional projection is consistent because equal log distances represent equal percentage changes. Mixing raw point projections with log distance readings breaks that consistency."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Why does a fixed point stop represent changing proportional risk as price rises?",
+    "back": "The same point amount is a larger share of a low price and a smaller share of a high price. Use the scale and risk unit that match how the position is actually sized."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What does a line chart hide that an OHLC or candlestick chart shows?",
+    "back": "A close only line hides the intrabar high, low, open, and sequence. It can make volatility and rejection within a session look smaller than they were."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "Why must long term adjusted price history be handled carefully?",
+    "back": "Unadjusted splits and dividends can create false gaps, while futures rolls need a defined continuous series. Adjustment preserves economic continuity but changes the displayed price history."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 3,
+    "front": "What should an analyst verify before trusting a multi timeframe chart conclusion?",
+    "back": "Verify the instrument, session, time zone, bar rule, missing data treatment, scale, and projection method. The signal is only as reliable as the chart construction behind it."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What is the usual sequence of the four price and volume phases?",
+    "back": "The cycle is usually described as accumulation, markup, distribution, and markdown. These phases are descriptive and often overlap, so their boundaries may be clear only after the fact."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "Which price and volume clues point to accumulation?",
+    "back": "Price stops making lower lows while selling pressure becomes less urgent. Rallies may begin to carry more volume, and pullbacks may become smaller or quieter."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What does healthy volume usually look like during markup?",
+    "back": "Volume tends to expand on advances and contract on orderly pullbacks as participation broadens. Repeated heavy volume without price progress is a warning that supply is meeting demand."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "Which evidence suggests distribution near a high?",
+    "back": "Price progress slows while volume remains active and leaders begin to weaken. Failed rallies, heavier down days, and deteriorating breadth together provide stronger evidence than one heavy session."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What changes during markdown?",
+    "back": "Price develops lower highs and lower lows, with heavier volume on declines and lighter volume on rebounds. A late volume climax shows forced activity, but a bottom still needs evidence that price is responding."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "Why should volume be compared with its recent average?",
+    "back": "A raw volume number has little meaning without a baseline. Relative volume shows whether current participation is above or below the normal activity for that market and period."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How does volume usually confirm an uptrend?",
+    "back": "Expanding volume on advances shows that more participants are accepting higher prices. Orderly pullbacks on quieter volume show less urgent selling."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How should an analyst treat a breakout on below average volume?",
+    "back": "The breakout is less well supported and should be treated as unconfirmed. A later close above resistance or a successful retest can strengthen the evidence, while a quick return into the range is a warning."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What distinguishes constructive and suspect periods of low volume?",
+    "back": "A quiet pullback to support in an uptrend can be constructive. A quiet rally back toward broken resistance in a downtrend can show a lack of demand."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "Why is climax volume not an automatic reversal signal?",
+    "back": "A climax shows forced or unusually urgent activity, not a completed change in direction. Reversal evidence requires price to stop extending and then show a changed response, such as a recovery from the low."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How do you calculate relative volume for a 750,000 share session against a 1.2 million share average?",
+    "back": "Divide 750,000 by 1,200,000. The result is 0.625, so the session is 62.5 percent of the recent average."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What does the advance decline line measure?",
+    "back": "It is a running total of advancing issues minus declining issues. Its direction and divergence from price matter more than its absolute level because the starting value is arbitrary."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How is the advance decline ratio calculated?",
+    "back": "Divide the number of advancing issues by the number of declining issues. A value of 1.0 means the two counts are equal."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "Why use up and down volume as well as issue counts?",
+    "back": "Issue counts show how many securities participate, while volume shows how much trading supports those moves. A small number of heavily traded stocks can dominate volume breadth."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What is the TRIN formula?",
+    "back": "TRIN equals advancing issues divided by declining issues, then divided by advancing volume divided by declining volume. It combines issue breadth with volume breadth."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What does a TRIN reading below 1.0 normally indicate?",
+    "back": "Advancing volume is relatively stronger than the count of advancing issues. This usually shows more forceful activity on the upside, but the value should be judged against its own history."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What does the percentage of stocks above a moving average reveal?",
+    "back": "It estimates how many securities are participating in the prevailing trend. A rising percentage indicates improving participation, while a falling percentage indicates narrowing strength."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What does the McClellan Oscillator measure?",
+    "back": "It measures the short term momentum of net advances by comparing a shorter EMA with a longer EMA. It is a breadth oscillator, not a direct count of bullish and bearish securities."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How should a lower high in breadth during a price high be interpreted?",
+    "back": "It suggests that fewer securities are supporting the advance and that risk is rising. It does not prove that price has reversed, so price confirmation remains necessary."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What does a rising relative strength line show about leadership?",
+    "back": "It shows that the security or sector is outperforming its benchmark. The absolute price can still be falling, so relative strength and price direction must be considered separately."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How can a qualitative review of market internals stay testable?",
+    "back": "Describe observable conditions such as which sectors lead, whether breakouts hold, and how median stocks behave. Avoid vague conclusions and state which future price or breadth evidence would invalidate the view."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What limits the reliability of breadth indicators?",
+    "back": "Index membership changes, unequal security weights, exchange traded funds, new listings, and market structure can distort the measures. Breadth divergences can also persist for a long time in a strong trend."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "Why is insider buying often treated differently from insider selling?",
+    "back": "Insider sales are often routine responses to compensation, taxes, or diversification. Discretionary open market purchases can provide a stronger signal because they are less commonly forced."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "Which details make insider buying more meaningful?",
+    "back": "Repeated purchases by several senior insiders are more useful than one small purchase. Open market buying after a decline and buying near the executive's own cost can add weight."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How do you calculate short interest as a percentage of float?",
+    "back": "Divide the number of shares sold short by the number of shares available in the float. If 12 million shares are short and the float is 100 million, short interest is 12 percent."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How do you calculate days to cover from 12 million short shares and 3 million average daily volume?",
+    "back": "Divide short interest by average daily volume. The result is 12 million divided by 3 million, or 4 days to cover."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "Why does high short interest not guarantee a squeeze?",
+    "back": "Short sellers may be correct, and the reported position is delayed. A squeeze becomes more plausible when a catalyst forces buying, liquidity is limited, and price begins to rise against the short position."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How should the bull bear spread in a sentiment survey be used?",
+    "back": "Use it to identify a crowded opinion and track changes through time. A level alone has limited value because bullish or bearish sentiment can remain extreme while price continues to move."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "When does contrary opinion become stronger evidence?",
+    "back": "It becomes stronger when sentiment reaches an extreme and price action shows that the crowd is being forced to change. An extreme reading without price confirmation is only a warning."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How do price and futures open interest change interpretation together?",
+    "back": "Rising price with rising open interest suggests new positions support the move. Rising price with falling open interest often reflects short covering, while falling price with rising open interest suggests new short positions."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How should the Commitments of Traders report be interpreted?",
+    "back": "It reports commercial, noncommercial, and nonreportable positions. Nonreportable positions are a residual whose trader count and commercial or noncommercial classification are unknown. Use the report to assess crowding and position changes, not as a direct prediction."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "What does a high put call ratio suggest, and what limits that inference?",
+    "back": "A high ratio can show defensive sentiment or crowded hedging, which may be contrarian near an extreme. Option type, open interest versus volume, and the users of equity and index options can change the meaning."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 4,
+    "front": "How can options volatility provide sentiment evidence?",
+    "back": "Rising implied volatility during a decline shows increased demand for protection. Falling implied volatility during an advance suggests reduced fear, but volatility readings must be compared with their own history."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What must be established before a visual shape is treated as a usable chart pattern?",
+    "back": "The analyst should mark the boundaries, identify the relevant swing, assess volume and trend context, and define completion. The pattern label should follow the evidence rather than replace it."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "How is the downside objective of a head and shoulders top calculated?",
+    "back": "Measure from the head to the neckline, then subtract that height from the neckline breakout level. An inverse head and shoulders adds the height to the neckline."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What supports a head and shoulders completion?",
+    "back": "A close below the neckline with expanding volume supports a downside completion. A right shoulder that is similar in scale to the left shoulder adds structural quality."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "How is a double top price objective commonly projected?",
+    "back": "Measure the height from the support line to the peaks, then project that distance below the support after a confirmed break. A double bottom projects the height upward."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "Why does a third resistance test not make a triple top complete by itself?",
+    "back": "The pattern still needs a decisive break of its support or neckline. Without that break, the same price action can remain a rectangle or another range."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "How does a rounding bottom usually develop?",
+    "back": "Price decelerates after a decline, flattens, and gradually turns upward. Volume is often quiet near the center and expands during the recovery."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What does an ascending triangle show?",
+    "back": "Rising lows press into a roughly horizontal resistance level. A confirmed close above that ceiling favors continuation of an existing uptrend."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What does a descending triangle show?",
+    "back": "Falling highs press into a roughly horizontal support level. A confirmed close below support raises the risk of a downside continuation."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "Does a symmetrical triangle predict breakout direction?",
+    "back": "No. It shows contraction in price and time. The larger trend, the boundary broken, and the confirmation evidence determine the trade interpretation."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "How is a flag target measured?",
+    "back": "Measure the sharp move that formed the flagpole, then project that length from the flag breakout. The output is a planning objective, not a guaranteed destination."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "How does a pennant differ from a flag?",
+    "back": "A pennant is a small triangle that narrows after a sharp move, while a flag is a small parallelogram that usually slopes against the trend. Both use the prior pole for a measured objective."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "Why should a wedge label be treated with caution?",
+    "back": "A wedge can act as a continuation or become part of a reversal, and definitions vary with context. The pattern boundaries and larger trend matter more than the label."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What tactics fit a price still inside a rectangle?",
+    "back": "A mean-reversion trader may buy near support with risk beyond the boundary and target the middle or opposite side. A breakout tactic is used only after price leaves the range and satisfies confirmation."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What confirms the completion of a cup and handle setup?",
+    "back": "A confirmed move through the old rim after a rounded cup and a controlled handle supports completion. A handle that falls back deep into the cup weakens the structure."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What is a measured move?",
+    "back": "It projects a completed swing or pattern height into a future price area from a breakout level. The result is an estimate for planning, not a promise of support or resistance."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "How should pattern width be used in target analysis?",
+    "back": "Width mainly describes duration, maturity, and context. A fixed multiplication of width is not a universal price target, so the analyst should state the measurement method being used."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "Resistance is 50 and the 3 percent rule is used. What upside close confirms?",
+    "back": "Three percent of 50 is 1.50, so the threshold is 51.50. A close above 51.50 satisfies the stated rule."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "Support is 80 and the 3 percent rule is used. What downside close confirms?",
+    "back": "Three percent of 80 is 2.40, so the threshold is 77.60. A close below 77.60 satisfies the stated rule."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "Resistance is 48.20 and the rule is one half ATR with ATR at 1.50. What upside threshold applies?",
+    "back": "One half of 1.50 is 0.75, so the threshold is 48.20 plus 0.75, or 48.95. The close basis and ATR lookback should be stated."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "How does an ATR confirmation rule differ from a 3 percent rule?",
+    "back": "The ATR rule scales with recent price movement, while the percentage rule scales with price. The ATR buffer adapts to volatility but requires a disclosed lookback and multiple."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "Is a 3 percent threshold the same as a 3 percent price objective?",
+    "back": "No. The threshold is the amount beyond a boundary that must be cleared for confirmation. The price objective comes from the pattern height or another stated measurement."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What is a reasonable mean-reversion entry near range support?",
+    "back": "Wait for evidence that support is holding, place risk beyond the range, and target the middle or opposite side. A quiet break of support weakens the mean-reversion premise."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What evidence supports a breakout entry beyond a range boundary?",
+    "back": "A qualified close beyond the boundary, expanding volume, and follow-through support the breakout. A throwback that holds the old boundary can offer a second entry."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What is a throwback after a breakout?",
+    "back": "It is a quick return to the broken boundary, which may act as new support or resistance. Holding the retest supports the breakout, while a close back inside the range weakens it."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "Why can a breakaway pullback improve a trade plan?",
+    "back": "It can place entry nearer to a structural invalidation level and improve the reward-to-risk calculation. The cost is that the pullback may not arrive or may become a failed breakout."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What market behavior most clearly weakens a confirmed upside breakout?",
+    "back": "A close back inside the original pattern after the breakout weakens the thesis. A subsequent break of the last important swing low gives stronger evidence of failure."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What is a common gap?",
+    "back": "It occurs in a quiet or choppy market and often appears on limited volume. It can fill quickly because the gap does not show strong new conviction."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What is a breakaway gap?",
+    "back": "It appears as price leaves a consolidation or pattern, often with strong volume. It is associated with a new directional move rather than ordinary range noise."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What is a runaway gap?",
+    "back": "It appears during an active trend and is also called a measuring gap. It can be used within a measured-move framework because it reflects acceleration in the established direction."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What is an exhaustion gap?",
+    "back": "It appears late in a move, often with high volume, and may be followed by weak continuation and a partial or full fill. Location and follow-through matter more than size alone."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "How should volume be used when classifying a gap?",
+    "back": "Strong volume supports a breakaway or directional interpretation, while quiet volume fits a common gap. Volume must be combined with the trend, location, and subsequent closes."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "Where can a stop be placed for a failed range breakout?",
+    "back": "It can go beyond the broken boundary, beyond the swing that formed the setup, or at a disclosed ATR buffer outside the structure. Position size should follow from the entry-to-stop distance."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "How does an invalidation condition differ from a stop order?",
+    "back": "Invalidation is the evidence that changes the trade thesis, such as a close back inside a pattern. A stop is the order that limits the loss and may sit beyond invalidation to avoid ordinary noise."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 5,
+    "front": "What elements belong in a classical pattern trade plan?",
+    "back": "The plan should state pattern evidence, entry trigger, confirmation rule, invalidation, stop, target, and reward-to-risk. It should also define how to respond to a retest, failure, or first target."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "Which four prices define one candlestick?",
+    "back": "A candlestick uses the open, high, low, and close for one selected interval. The body spans the open and close, while the shadows reach the high and low."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What does a long candlestick body show?",
+    "back": "A long body shows that the open and close finished far apart. It indicates a large net price change during the interval, but it does not by itself identify whether the move will continue."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What information does a candlestick shadow provide?",
+    "back": "A shadow shows that price reached an extreme and then moved back before the close. Its meaning depends on the trend, the location, and the volume during the session."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "How is close location within a candle range calculated?",
+    "back": "Subtract the low from the close, then divide by the high minus the low. A close near the upper end shows stronger intraperiod demand than a close near the lower end."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "Why can the same candle shape mean different things on two charts?",
+    "back": "The charts may use different intervals, trends, support zones, or volume conditions. A setup on a daily chart can be a small pause on a weekly chart."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What structure defines a hammer?",
+    "back": "A hammer has a small body near the top of its range and a long lower shadow. It gains reversal meaning after a decline, especially at support with confirming follow through."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "How does a hanging man differ from a hammer?",
+    "back": "The two candles have the same basic shape. A hanging man occurs after an advance, while a hammer occurs after a decline, so market context changes the interpretation."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What does a shooting star show?",
+    "back": "A shooting star has a small body near the low of its range and a long upper shadow after an advance. It shows that a rally met supply and failed to hold its gain."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "How is an inverted hammer interpreted?",
+    "back": "An inverted hammer has a small body near the low and a long upper shadow after a decline. It can show an early demand attempt, but a later close above the candle is needed for stronger confirmation."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What does a doji reveal?",
+    "back": "A doji has an open and close that are equal or nearly equal. It shows indecision because neither buyers nor sellers held a meaningful closing advantage during the interval."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "How do long legged, dragonfly, and gravestone dojis differ?",
+    "back": "A long legged doji has long shadows on both sides. A dragonfly has mainly a lower shadow, while a gravestone has mainly an upper shadow."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What is a spinning top candle?",
+    "back": "A spinning top has a small body and shadows on both sides. It records a pause or disagreement in control, but it is usually less distinctive than a doji."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What does a marubozu indicate?",
+    "back": "A marubozu has a long body with little or no shadow. A bullish version closes near its high and a bearish version closes near its low, showing a sustained move during the interval."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What is a bullish engulfing pattern?",
+    "back": "A bullish candle follows a bearish candle and its real body covers the prior real body. After a decline, it shows buyers overcoming the previous session's selling range."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What is a bearish engulfing pattern?",
+    "back": "A bearish candle follows a bullish candle and its real body covers the prior real body. After an advance, it shows sellers overcoming the previous session's buying range."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What does a harami show?",
+    "back": "A harami has a small body contained within the prior large body. It shows that the prior move paused, but it is often weaker evidence than an engulfing reversal."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What is the rule for a piercing pattern?",
+    "back": "After a decline, a bullish candle opens below or near the prior low and closes above the midpoint of the prior bearish body. Deeper penetration gives stronger visual evidence."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What is the rule for dark cloud cover?",
+    "back": "After an advance, a bearish candle opens above or near the prior high and closes below the midpoint of the prior bullish body. The pattern suggests that sellers have seized control."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What three candles form a morning star?",
+    "back": "A long bearish candle, a small body candle or doji, then a long bullish candle that closes well into the first body. The sequence appears after a decline."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What three candles form an evening star?",
+    "back": "A long bullish candle, a small body candle or doji, then a long bearish candle that closes well into the first body. The sequence appears after an advance."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What do tweezer tops and tweezer bottoms show?",
+    "back": "They show two candles testing nearly the same high or low. The repeated test is meaningful when it occurs at support or resistance and later price action confirms it."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "Why does volume matter for a candlestick signal?",
+    "back": "Volume shows how much participation supported the candle's move. A reversal on volume well above its recent average is more credible than the same shape on unusually light activity."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "Why does support or resistance change a candle pattern's meaning?",
+    "back": "The zone identifies a price where buyers or sellers previously made decisions. A reversal candle there can show a new test of that decision, while the same shape in the middle of a range may be noise."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What is the difference between a complete and a confirmed candlestick pattern?",
+    "back": "A complete pattern has all its required candles after the final close. A confirmed pattern has later price action that supports the intended reversal or continuation."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What does an incomplete candlestick pattern mean in real time?",
+    "back": "Some required candles or price relationships are still missing. The analyst should identify what the market must do to finish or cancel the setup instead of assuming the pattern already exists."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "How should an imperfect candlestick pattern be handled?",
+    "back": "Judge trend, location, control transfer, volume, and the next close before trusting the label. Reduce confidence or wait for a cleaner trigger when the pattern's parts conflict."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What invalidates a bullish candlestick setup?",
+    "back": "A decisive close below the signal low or the support zone weakens the setup and can trigger the planned stop. A brief shadow through the level is different from a confirmed close beyond it."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What structure defines an abandoned baby?",
+    "back": "An abandoned baby uses three candles with a doji isolated by gaps between the first and third candles. It is a strict star formation and the gaps are central evidence."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What structure defines an island reversal?",
+    "back": "Price gaps away from a trend, trades for one or more candles in an isolated area, then gaps back toward the original price area. The return gap completes the reversal structure."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "How does an abandoned baby differ from an island reversal?",
+    "back": "An abandoned baby has three candles and an isolated doji. An island reversal can contain any number of candles and is defined more broadly by an isolated price area created by gaps on both sides."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "What sequence should an analyst use to integrate candle evidence?",
+    "back": "Establish the larger trend, identify support or resistance, assess the candle pattern's completeness, compare volume, and require later confirmation. Then set the entry, invalidation, and position size."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "Why should overlapping candlestick signals not be counted as independent evidence?",
+    "back": "Several candle features can describe the same session and the same price recovery. Confidence should increase only when the candle agrees with evidence from a different source, such as trend, volume, or a classical chart pattern."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 6,
+    "front": "How should risk be planned for a candlestick trade?",
+    "back": "Define the market level that would prove the signal wrong, measure entry risk to that level, and size the position from the planned account risk. The candle name does not replace a structural stop."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How do X and O columns and time work on a point and figure chart?",
+    "back": "An X column records rising prices and an O column records falling prices. Time does not advance the axis by itself, so a new mark appears only when price reaches the next box threshold or completes the specified reversal."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How is a point and figure reversal threshold calculated?",
+    "back": "Multiply the box size by the number of reversal boxes. A one dollar box with a three box reversal requires a three dollar move against the current column before a new column can begin."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "Why does scale matter in point and figure analysis?",
+    "back": "Arithmetic boxes show equal dollar changes, while logarithmic boxes show equal proportional changes. The scale should match the price range and the intended comparison."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What does congestion represent on a point and figure chart?",
+    "back": "Congestion is a horizontal band where X and O columns overlap. It marks a price area where control repeatedly changed and provides the base used in horizontal counts."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How is a vertical point and figure count applied in this chapter?",
+    "back": "Count the boxes in the breakout column, multiply by box value and reversal amount, then project from the column low for X or the column high for O. Eight one dollar boxes with a three box reversal give 24 points, so an X column low at 75 targets 99."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How does a proportional point and figure count differ from an arithmetic count?",
+    "back": "A fixed dollar count adds or subtracts dollars. A percentage box count compounds proportional moves on a log chart, so the result depends on the starting price."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What does a horizontal point and figure count measure?",
+    "back": "It measures the number of columns across a congestion area, then applies the stated box value and reversal amount. A wider base can support a larger count but does not guarantee a larger move."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How are P and F point and figure symbols used in relative strength analysis?",
+    "back": "A relative strength ratio divides a security or sector by a benchmark. Rising P columns can show improving relative performance, while F columns can show weaker performance, but the chart legend must confirm the symbols."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What is technical momentum?",
+    "back": "Momentum measures the amount of price change over a chosen lookback. It can be expressed as a price difference, a percentage rate of change, or another ratio."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How is rate of change calculated?",
+    "back": "Divide the current price by the price from the chosen lookback and subtract one. A move from 50 to 54 gives 54 divided by 50 minus 1, or 8 percent."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What is the difference between momentum and acceleration?",
+    "back": "Momentum measures price change from a reference point, while acceleration measures the change in momentum. Price can rise while momentum falls if the rate of advance slows."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "Why are overbought readings different in trends and ranges?",
+    "back": "In a range, an overbought reading can warn of resistance and mean reversion. In a strong uptrend, the reading can remain high for many bars as demand persists."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How does momentum typically behave through a directional trend?",
+    "back": "Momentum often rises with price early in the move, may flatten or weaken near the middle, and can lose force before price completes a turn. It can reverse several times before price changes trend."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What is a positive momentum divergence?",
+    "back": "Price makes a lower low while momentum makes a higher low. It suggests that the later decline has less force, but price confirmation is still required."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What is a negative momentum divergence?",
+    "back": "Price makes a higher high while momentum makes a lower high. It shows that the later advance has weaker force, but it does not prove that price has peaked."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How do number and duration affect a divergence?",
+    "back": "Repeated divergences can show persistent loss of force, and a divergence spread across several months can carry more warning than two nearby swings. Neither feature guarantees a price reversal."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "Why does the position of a divergence matter?",
+    "back": "A divergence at a major support or resistance zone, or late in an extended trend, has more context than a divergence inside a noisy range. An early warning can still be followed by further trend movement."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What are the three practical steps of a valid momentum signal?",
+    "back": "The indicator changes direction, passes a defined trigger, and receives price confirmation. A turn in the indicator alone is only the first step."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How does a momentum reversal differ from a price reversal?",
+    "back": "A momentum reversal changes the indicator's direction or position. A price reversal changes market structure, such as a lower high followed by a break of the prior low."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What are three ways to recognize a trend change in an oscillator?",
+    "back": "Look for a break in the oscillator's swing pattern, a break of an indicator trendline, or a zero or signal line cross. Faster triggers usually accept more false signals."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "Why should an indicator trigger and a price confirmation be separated in a trade plan?",
+    "back": "The indicator may turn before price structure changes. An early entry needs a wider invalidation and smaller risk, while waiting for price confirmation may improve evidence but worsen the entry price."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What does RSI compare?",
+    "back": "RSI compares recent average gains with recent average losses, usually over 14 periods. The 70 and 30 levels are common guides, but trends can keep readings near either edge."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What does the stochastic oscillator measure?",
+    "back": "It measures the latest close relative to the high and low of a lookback period. A common setup is 14 periods with three period smoothing for percent K and percent D."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What are the standard MACD lines and settings?",
+    "back": "With 12, 26, and 9 settings, the MACD line is the 12 period exponential average minus the 26 period average. The signal is a nine period exponential moving average of the MACD line, and the histogram is MACD minus signal."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How do RSI, stochastic, MACD, and rate of change differ in use?",
+    "back": "RSI shows gain loss balance, the stochastic shows close location in a range, MACD shows the spread between fast and slow averages, and rate of change shows direct percentage change."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What was the original purpose of VWAP?",
+    "back": "VWAP was created as an execution benchmark for large institutional orders. It helps compare the average price achieved with the average price paid across the session."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How is VWAP calculated?",
+    "back": "Multiply each trade or bar price by its volume, add those dollar values, and divide by total volume. With bar data, a typical price of high plus low plus close divided by three is often used."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What makes an execution good relative to VWAP?",
+    "back": "A buy is generally favorable when its average price is below VWAP. A sell is generally favorable when its average price is above VWAP, with the result still compared with the stated benchmark and costs."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What does price above VWAP indicate about session control?",
+    "back": "Price above VWAP shows that recent trading is occurring above the volume weighted average cost. It supports a buyer control interpretation, but it does not guarantee continued gains."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How is percent b calculated for Bollinger Bands?",
+    "back": "Subtract the lower band from price, then divide by the upper band minus the lower band. A price at the upper band has a reading of 1.00, while a price halfway between the bands has 0.50."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How does BandWidth differ from percent b?",
+    "back": "BandWidth measures the distance between the bands relative to the middle average. Percent b measures where price sits inside those bands, so it can change even when BandWidth is unchanged."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "How do a Bollinger squeeze, bulge, and band walk differ?",
+    "back": "A squeeze is unusually narrow BandWidth and signals low volatility without choosing direction. A bulge is rapid band expansion after volatility rises. A band walk is a series of closes near one band during a strong trend."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 7,
+    "front": "What is a bearish two bar reversal at the upper Bollinger Band?",
+    "back": "One bar closes above the upper band and the next closes back inside it. The sequence shows rejection of the expansion and gains weight after an extended rally or at resistance."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What does a market cycle model describe?",
+    "back": "A cycle model describes a recurring rhythm in price, time, or participation. It is a testable expectation rather than a promise that the same move will repeat exactly."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What does cycle amplitude measure?",
+    "back": "Amplitude measures the size of a cycle, often the distance from a trough to a crest or from a crest to a trough. It helps compare the importance of different cycles."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What does a cycle period measure?",
+    "back": "The period is the time between comparable points in a cycle, such as one trough and the next trough. It is the cycle length used in timing projections."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What does cycle phase describe?",
+    "back": "Phase describes where the current date or price sits within the cycle. A known period without known phase does not identify whether the next turn is likely to be a high or a low."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How is a harmonic related to a larger cycle?",
+    "back": "A harmonic has a period that is a whole-number fraction of a larger cycle. The second harmonic of a 40-day cycle has a 20-day period."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What is a nominal cycle used for?",
+    "back": "A nominal cycle is a simplified reference model with a stated period and phase. The analyst compares real market behavior with that model and revises it when amplitude, timing, or shape changes."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What does cycle summation mean?",
+    "back": "Cycle summation treats observed price as a combination of several cycles plus trend and noise. The combined result can strengthen, weaken, or shift the apparent turning date."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How is a dominant cycle different from the longest cycle?",
+    "back": "The dominant cycle is the cycle with the strongest useful amplitude in the study window. A shorter cycle can dominate tactical price swings while a longer cycle defines the broader environment."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How can a spectrogram help find a dominant cycle?",
+    "back": "A spectrogram shows cycle strength across time and period. A strong band marks the active period, and movement of that band shows when the dominant rhythm is changing."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "Why is finding a period not enough to time a turn?",
+    "back": "The analyst must also establish phase and amplitude. The same period can place the next high or low on different dates depending on where the current swing sits."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What is left translation?",
+    "back": "Left translation means the peak of a cycle occurs before the midpoint between two troughs. A peak on day 12 of a 30-day cycle is left translated."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What is right translation?",
+    "back": "Right translation means the peak occurs after the midpoint between two troughs. A peak on day 20 of a 30-day cycle is right translated."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How should translation affect a trading decision?",
+    "back": "Right translation is often consistent with upward pressure and left translation with downward pressure, but neither is a standalone signal. Require price confirmation and a clear invalidation level."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What is a cycle inversion?",
+    "back": "An inversion occurs when an expected trough appears as a relative high or an expected crest appears as a relative low. It usually means the simple model is misphased or another cycle is dominating."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What can cause a mid-cycle dip?",
+    "back": "A shorter harmonic can pull price down near the midpoint of a larger nominal cycle. The dip reflects cycle summation and phase offset rather than a universal cycle rule."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What can cause a three-quarter-cycle high?",
+    "back": "A harmonic crest can coincide with the later part of a larger cycle and create a secondary high. The timing depends on the shorter cycle's period and phase."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How can cycle summation explain rounded tops and V-bottoms?",
+    "back": "Rounded turns can occur when nearby cycles spread their turning influence, while V-turns can occur when several cycles reverse together. The shape still needs price and volume confirmation."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How does a centered moving average reduce timing lag?",
+    "back": "A centered average uses data before and after the middle bar, so its value aligns with the center of the window. A trailing average places more weight on older information and lags more."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What is the limitation of a 39-day centered moving average in real time?",
+    "back": "The newest 19 bars do not yet have the future observations required to finish the average. The live portion must be estimated or replaced with a trailing measure."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How is a simple CMA envelope constructed?",
+    "back": "Add and subtract a measured distance from the centered average to create upper and lower bands. The distance can reflect observed half-amplitude or a stated percentage."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What makes a cycle valid trendline useful?",
+    "back": "A valid trendline connects comparable cycle pivots and respects the price behavior between them. It helps show whether the timing structure is intact, but a line break needs wider evidence."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What are two common ways to detrend price data?",
+    "back": "Subtract a regression line from price, or divide price by a moving average and express the result as a percentage. Proportional data are usually better for markets analyzed on a logarithmic scale."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How is a seasonal cycle tested?",
+    "back": "Compare each calendar period with a baseline such as a centered 12-month average or a detrended return. Check stability, dispersion, sample size, and whether the effect survives costs."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What is the difference between finding and phasing a cycle?",
+    "back": "Finding estimates which periods have power, often with spectral analysis or a spectrogram. Phasing estimates where the current move sits within the chosen period and usually uses pivots, envelopes, or trendlines."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What sequence should a comprehensive cycle analysis follow?",
+    "back": "Clean the data, inspect the wider trend, detrend, find candidate periods, test stability and phase, project turns, compare price evidence, and define invalidation. The step from timing forecast to trade requires confirmation."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What is the basic operating idea of the Elliott Wave Principle?",
+    "back": "It proposes that crowd behavior develops in recurring directional and corrective structures across timeframes. A wave count is a probabilistic map with alternate scenarios, not a certainty."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How are motive and corrective Elliott waves usually labeled?",
+    "back": "A motive sequence is commonly labeled 1 through 5. A corrective sequence is commonly labeled A, B, and C, with notation changed to show degree."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What are the core rules for an Elliott impulse?",
+    "back": "Wave 2 cannot retrace more than 100% of wave 1, and wave 3 cannot be the shortest of waves 1, 3, and 5. In a standard cash-market impulse, wave 4 should not overlap wave 1 territory."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What does wave 1 and wave 4 overlap suggest?",
+    "back": "Overlap makes a standard cash-market impulse unlikely. Consider a diagonal pattern or a different wave count instead of keeping a count that breaks the normal rule."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How does an extension differ from a diagonal?",
+    "back": "An extension is a prolonged impulse wave, often wave 3, that subdivides into a smaller five-wave sequence. A diagonal contains five overlapping waves, usually inside converging or expanding boundaries."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How are zigzag, flat, and triangle corrections described?",
+    "back": "A zigzag is a sharp 5-3-5 correction, a flat is often a 3-3-5 sideways correction, and a triangle commonly contains five overlapping 3-wave segments. Their shape affects where the correction may end."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "What does alternation mean in corrective waves?",
+    "back": "Nearby corrections such as wave 2 and wave 4 often differ in shape, depth, or duration. Alternation is a guideline for comparing scenarios, not a strict rule."
+  },
+  {
+    "domain": "classical_techniques",
+    "chapter": 8,
+    "front": "How are Fibonacci targets calculated for a wave 2 and a wave 3 example?",
+    "back": "If wave 1 rises 20 points, a 0.618 retracement is 12.36 points. From a wave 2 low, a 1.618 extension of the same 20-point length is 32.36 points. Use the result as a zone and require structural confirmation."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "How do a population and a sample differ in a technical-analysis study?",
+    "back": "The population is the complete set of conditions described by the research question. The sample is the measured subset used to make an inference about that population."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What role does the null hypothesis play in a statistical test?",
+    "back": "The null hypothesis is the baseline claim that the sample is asked to contradict, often stating no effect, no difference, or no positive edge. The evidence either rejects it or fails to reject it at the chosen threshold."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "How should a one-sided alternative hypothesis be used?",
+    "back": "It states a direction before the data are inspected, such as a mean return greater than zero. Choosing the direction after seeing the result uses hindsight and distorts the test."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What does a test statistic do?",
+    "back": "It converts the sample result into a scale that can be compared with a reference distribution. For a sample mean, it often divides the distance from the hypothesized mean by the standard error."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What is a critical value?",
+    "back": "A critical value is the cutoff in a reference distribution for the chosen significance level and test direction. A statistic beyond the cutoff falls in the rejection region."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "How is a p-value interpreted?",
+    "back": "It is the probability, assuming the null hypothesis is true, of obtaining a test statistic at least as extreme as the observed value. It is not the probability that the null hypothesis is true."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What does failing to reject a null hypothesis establish?",
+    "back": "It establishes only that the sample did not provide enough evidence to reject the null at the chosen threshold. It does not prove that the null statement is true."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "When is a two-sided test more suitable than a one-sided test?",
+    "back": "A two-sided test is suitable when the analyst asks whether an effect differs in either direction. A one-sided test is suitable only when the economic question and direction were specified in advance."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What is a Type I error in a trading-rule test?",
+    "back": "A Type I error is rejecting a true null hypothesis, which is a false positive. The rule is declared useful when no positive edge exists."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What is a Type II error in a trading-rule test?",
+    "back": "A Type II error is failing to reject a false null hypothesis, which is a missed real effect. Its probability is beta and statistical power is 1 minus beta."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "How does lowering alpha affect Type I and Type II errors?",
+    "back": "A lower alpha makes the rejection region harder to enter, so Type I errors become less likely and Type II errors usually become more likely. A larger sample can improve power without raising Type I risk."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "Why does sample size affect the ability to detect an edge?",
+    "back": "A larger independent sample reduces the standard error of the sample mean. The same estimated effect becomes easier to distinguish from sampling variation."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What is the first step in a complete hypothesis-testing sequence?",
+    "back": "Define the market question and the decision that the result will affect. This keeps later choices tied to a useful research purpose."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "Why must hypotheses and test specifications be set before examining outcomes?",
+    "back": "Advance specification prevents the analyst from choosing the most favorable rule or direction after seeing the data. It limits hindsight and unplanned multiple testing."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What is look-ahead bias?",
+    "back": "It occurs when a historical decision uses information that was unavailable at that time. Revised data, later index membership, or a rule selected from the full sample can create it."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "Why are overlapping forward-return windows a sampling problem?",
+    "back": "Consecutive windows share most of their price data, so their observations are not independent. The nominal sample size overstates the amount of independent evidence."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What makes a result genuinely out of sample?",
+    "back": "The data were not used to create, select, or tune the rule. Reusing the period after each revision destroys its independence."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "How does the arithmetic mean differ from the geometric mean return?",
+    "back": "The arithmetic mean is the simple average of returns. The geometric mean compounds the growth factors and gives the constant period return that links starting and ending wealth."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "Calculate the geometric mean of returns of 10 percent and negative 5 percent.",
+    "back": "Multiply 1.10 by 0.95 to get 1.045, then take the square root and subtract 1. The result is about 2.225 percent, compared with an arithmetic mean of 2.5 percent."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What do sample variance and standard deviation measure?",
+    "back": "Variance measures the average squared deviation of returns from their mean, using n minus 1 in a sample. Standard deviation is its square root and is expressed in return units."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "Calculate the z-score for a return of 1.20 percent when the mean is 0.40 percent and the standard deviation is 0.50 percent.",
+    "back": "Subtract the mean from the return, then divide by the standard deviation. The calculation is 0.80 divided by 0.50, so z equals 1.60."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "Why should returns be checked for skew, fat tails, and volatility clustering?",
+    "back": "These features can make a normal-theory test or a single standard deviation misleading. Fat tails, extreme observations, and changing dispersion can require a robust method or a narrower conclusion."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What does a correlation coefficient measure?",
+    "back": "It measures the direction and strength of a linear association between two variables. It ranges from negative 1 to positive 1 and has no units."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "How is a regression slope interpreted?",
+    "back": "The slope estimates the change in the dependent variable associated with a one-unit change in the explanatory variable. Its units come from the two variables."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What does an R squared of 0.06 mean?",
+    "back": "The regression explains about 6 percent of the observed variation in the dependent variable within the sample. Most of the variation remains unexplained even if the slope is statistically significant."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What is a regression residual and why is it inspected?",
+    "back": "A residual is actual y minus fitted y. Residual patterns can reveal curvature, changing error variance, influential points, or serial correlation that the slope alone does not show."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "Why does a predictive regression not establish causation?",
+    "back": "A third factor or a market regime can drive both variables, and the relation can reflect selection or coincidence. Causation requires a credible mechanism and evidence that separates it from alternatives."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "When is a one-sample t-test commonly used?",
+    "back": "It is used to test whether a mean return or mean difference differs from a target when the population standard deviation is unknown. Its interpretation depends on sample size and model assumptions."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "When is a paired test appropriate?",
+    "back": "It is appropriate when observations are matched and share a source of variation, such as the same security and dates under two rules. The test analyzes the paired differences."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What must be checked before using a two-sample test?",
+    "back": "The groups should match the research design, and their independence and variance structure should be assessed. Separate groups are handled differently from matched observations."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "What is the difference between statistical significance and economic significance?",
+    "back": "Statistical significance concerns whether a result is hard to explain by the null model. Economic significance concerns whether the estimated effect is large enough after costs, turnover, capacity, and risk."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "Why does testing many rules create a false-discovery risk?",
+    "back": "Repeated tests increase the chance that chance variation produces an impressive p-value. The analyst must disclose the search and adjust or validate the final result independently."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "How is a one-sided hypothesis test framed for positive post-signal returns?",
+    "back": "State the null as mean return less than or equal to zero and the alternative as mean return greater than zero. Calculate the standard error, test statistic, critical value, and p-value using that planned direction."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 9,
+    "front": "Why is statistical significance not proof that a trading rule works in the future?",
+    "back": "It describes evidence in one sample under stated assumptions. Implementation costs, changing market conditions, multiple testing, and limited out-of-sample data can remove the apparent edge."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What does VIX measure?",
+    "back": "VIX measures the S&P 500 expected 30 day volatility implied by SPX option prices. It is annualized and expressed in percentage points."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What does a VIX value of 20 mean?",
+    "back": "It represents about 20 percent annualized expected volatility. It does not mean that the S&P 500 will move 20 percent over the next month."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "How is the approximate 30 day expected move found from VIX?",
+    "back": "Divide VIX by the square root of 12. A VIX of 20 gives about 5.77 percent for one standard deviation."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What is the approximate 30 day move when VIX is 28?",
+    "back": "Divide 28 by the square root of 12 to get about 8.08 percent. On an index at 4,200, one standard deviation is about 339 points."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "How is the approximate one day expected move found from VIX?",
+    "back": "Divide VIX by the square root of 252 trading days. A VIX of 24 gives about 1.51 percent for one day."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What does one standard deviation mean in an expected move calculation?",
+    "back": "It defines a range that contains about 68 percent of outcomes under a simple normal model. Actual market returns have fat tails, so the range is approximate."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "Does a close beyond the VIX expected move prove that VIX was wrong?",
+    "back": "No. The expected move is a probabilistic planning range, not a price ceiling. Outcomes can legitimately fall beyond one standard deviation."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "Does VIX predict the direction of the S&P 500?",
+    "back": "No. VIX estimates the size of expected movement, not whether price will rise or fall."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What is the main difference between implied and realized volatility?",
+    "back": "Implied volatility comes from option prices and looks forward. Realized volatility comes from past returns and looks backward."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "Why can VIX rise while the S&P 500 moves only a little?",
+    "back": "Demand for options or protection can increase the prices paid for implied volatility. VIX follows those prices before realized movement appears."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What is the volatility risk premium?",
+    "back": "It is implied volatility minus subsequently realized volatility. A positive value means option prices implied more movement than occurred."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What does a VRP of plus 6 mean when implied volatility is 21?",
+    "back": "The implied volatility of 21 is six percentage points above realized volatility. Realized volatility is therefore 15 in this example."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "How can a trader attempt to capture the volatility risk premium?",
+    "back": "The trader can sell volatility through option structures such as a short straddle, short strangle, or defined risk credit spread. Each structure has different margin and loss limits."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "Why is selling volatility for the VRP not a free arbitrage?",
+    "back": "Option sellers accept jump, gap, liquidity, and convexity risk. A single severe event can erase many small premiums earned in calm markets."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What is one difference between a short straddle and a short strangle?",
+    "back": "A short straddle sells a call and a put near the same strike. A short strangle uses out of the money options and usually receives less premium with wider breakeven levels."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "Why can a positive VRP still leave an option seller with a loss?",
+    "back": "The seller can lose from strike placement, path dependent squared returns, transaction costs, margin, and a tail move. Realized variance is not the same as every seller's profit."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What is contango in VIX futures?",
+    "back": "Contango is an upward sloping term structure in which later VIX futures trade above nearer futures. It is common in calmer markets."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What is backwardation in VIX futures?",
+    "back": "Backwardation is a downward sloping term structure in which nearer futures trade above later futures. It often appears during stress and strong demand for immediate protection."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "How do you calculate the percentage spread between two VIX futures?",
+    "back": "Divide the later contract price by the front contract price, then subtract one. A rise from 18 to 20 is about 11.1 percent."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "Why can a long position in later VIX futures lose through roll?",
+    "back": "The later contract can decline toward a lower front contract as time passes in contango. This negative roll can create a loss even when VIX changes little."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "Why is a shift from VIX futures contango to backwardation useful as a warning?",
+    "back": "It shows that near term protection and volatility demand are rising relative to later periods. The analyst should confirm it with spreads and other market evidence."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "Does VIX backwardation guarantee a further S&P 500 decline?",
+    "back": "No. It signals a change in near term volatility expectations and hedging demand. It is evidence for risk review, not a guaranteed direction or a certain bottom."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What are two common ways to manage downside risk in a long S&P 500 portfolio?",
+    "back": "The investor can buy S&P 500 puts or buy VIX calls. The two instruments have different payoff patterns and different types of basis risk."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "How does an S&P 500 put hedge a portfolio?",
+    "back": "A put gains value when the index falls below its strike. It provides a direct floor for an index linked portfolio, subject to cost, expiry, and basis risk."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "Why is a VIX call not a guaranteed substitute for an S&P 500 put?",
+    "back": "A VIX call pays from the behavior of VIX, not from the exact size of an S&P 500 decline. VIX may not rise enough during a moderate price fall to offset portfolio losses."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "Why can a VIX call outperform a put during a panic?",
+    "back": "VIX can spike sharply when hedging demand surges, and a VIX call can have a highly convex payoff. The result still depends on strike, expiry, settlement, and the cost paid."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What is the key objective of a risk management hedge?",
+    "back": "The objective is to cap a loss the investor is unwilling to tolerate within an acceptable cost and horizon. Maximizing gains in one crisis scenario is not the standard."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What does Average True Range measure?",
+    "back": "ATR measures the average absolute size of price movement over a selected window, commonly 14 periods. It is used for stop distance and position sizing, not direction."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "How much risk does a stop 2.5 ATR from entry represent when ATR is 20?",
+    "back": "The stop distance is 50 price units. If the account risk budget is $1,000, the position size is at most 20 shares before other costs."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "How is Bollinger BandWidth calculated?",
+    "back": "Divide upper band minus lower band by the middle band. Bands at 110 and 90 around a middle of 100 produce BandWidth of 20 percent."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "What does a Bollinger squeeze show and not show?",
+    "back": "It shows that recent dispersion has contracted. It does not show the direction of the next expansion."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "How is a daily return volatility estimate commonly annualized?",
+    "back": "Multiply the daily standard deviation by the square root of 252. A daily return volatility of 1 percent annualizes to about 15.9 percent under this shortcut."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 10,
+    "front": "How can rising volatility change a trade plan without changing the entry signal?",
+    "back": "Rising volatility can justify smaller position size, a wider stop, or less leverage. The same setup carries more dollar risk when ordinary price movement expands."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What are the five common trading model families in this chapter?",
+    "back": "They are trend, mean reversion, momentum or relative strength, breakout, and pattern or statistical classification models. Each family makes a different assumption about how market behavior persists and has a different main failure mode."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What does a trend model assume?",
+    "back": "It assumes that directional price movement persists long enough to produce gains that exceed repeated whipsaw losses. Trend models often perform poorly when the market remains rangebound."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What is the main risk in a mean-reversion model?",
+    "back": "Price can keep moving away from the reference level instead of returning to it. The model needs a loss limit because frequent small wins can be offset by one large loss during a persistent trend."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What assumption supports a relative-strength ranking model?",
+    "back": "It assumes that recent leadership persists over the chosen horizon. Crowding, rotation, and high turnover can weaken the result."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "When does a breakout model usually make sense?",
+    "back": "It looks for a confirmed move out of compressed price action or a defined range. The method assumes that the range or compression contains useful information about the next directional move."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "Why is subjective pattern labeling dangerous in a model test?",
+    "back": "An analyst can recognize a pattern after knowing the outcome even if it was not clear at the decision time. A reproducible rule must define every input and decision condition in advance."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What is the purpose of a go or no-go metric?",
+    "back": "It sets a decision gate for whether a system receives capital, remains under review, or is removed. The threshold should be chosen before testing so results do not rewrite the standard."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "Which ratio compares gross winnings with gross losses?",
+    "back": "Divide gross winning dollars by gross losing dollars. A profit factor of 1.50 means the system won $1.50 for every $1.00 lost before any omitted costs are considered."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "How is expected value per trade calculated?",
+    "back": "Subtract total losses from total wins, then divide by the number of trades. Equivalently, use win rate times average win minus loss rate times average loss."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "Why is a high CAGR by itself weak evidence for implementation?",
+    "back": "It says nothing about the path taken to earn the return. Maximum drawdown, volatility, sample length, costs, and out-of-sample behavior can make the result unsuitable."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What different risks do the Sharpe and Sortino ratios emphasize?",
+    "back": "Sharpe uses total return volatility in the denominator. Sortino uses downside volatility, so it focuses more directly on harmful moves."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What does the Calmar ratio compare?",
+    "back": "It commonly compares compound return with maximum drawdown. A higher value means more return per unit of worst historical drawdown."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What are the four practical ways to generate a trading signal?",
+    "back": "They are level crossing, crossover, threshold crossing, and multi-condition state recognition. Each must define its data timing and confirmation rule."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What is the difference between a level crossing and a crossover?",
+    "back": "A level crossing compares price or an indicator with a fixed or evolving boundary. A crossover compares two series, such as a fast and slow moving average."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "How should a model handle a signal that uses the closing price?",
+    "back": "The signal becomes known only after the close. The test should trade at the next available price or explicitly model a close fill while recognizing that the fill cannot occur before the information is known."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What is a trigger rule?",
+    "back": "A trigger is the event that causes action, such as a confirmed breakout or moving-average crossover. It answers what makes the model act now."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What is a filter rule?",
+    "back": "A filter permits or blocks a trigger under stated conditions. It does not create the trade by itself and usually reduces the number of signals."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What is a value rule?",
+    "back": "A value rule acts when price is far from a reference measure of worth. It commonly supports mean-reversion decisions."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What does a signal test measure?",
+    "back": "It measures the forward return after an entry condition and compares it with a relevant baseline. It does not include the full strategy's stops, sizing, or portfolio constraints."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What does a full backtest add beyond a signal test?",
+    "back": "It simulates entries, exits, stops, position sizing, overlapping signals, available capital, costs, and realistic fills. It tests the whole strategy rather than the isolated signal."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "Why should a signal test usually come before a full backtest?",
+    "back": "A profitable backtest mixes entry, exit, and sizing decisions, so a strong exit can hide a weak signal. Testing the signal first isolates whether the entry contains information."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "Why are 300 clustered signals not 300 independent observations?",
+    "back": "Overlapping holding periods cause many signals to share the same subsequent price moves. The effective sample is smaller, so ordinary significance calculations can overstate confidence."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "Name the seven stops in the layered risk process.",
+    "back": "They are the initial stop, trailing stop, volatility stop, time stop, signal stop, portfolio stop, and catastrophic stop."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What is the purpose of an initial stop?",
+    "back": "It defines the planned maximum loss when the trade opens. It also makes risk per share known so position size can be calculated."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "How does a trailing stop differ from an initial stop?",
+    "back": "A trailing stop moves with a favorable trend and generally does not move backward. It protects accumulated gains instead of setting only the opening risk."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "How is a 2.5 ATR volatility stop calculated from a $100 entry and $2.00 ATR?",
+    "back": "Multiply 2.5 by $2.00 to get a $5.00 stop distance. Subtract $5.00 from $100 to place the stop at $95."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What is the purpose of a time stop?",
+    "back": "It exits when the expected move has not developed within a defined period. This prevents a dead trade from tying up capital and risk indefinitely."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "When should a signal stop be used?",
+    "back": "Use it when the original reason for the trade has failed even if the price has not reached the money stop. It exits because the thesis is no longer valid."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What does a portfolio stop control?",
+    "back": "It controls aggregate exposure such as total open risk, correlated positions, gross exposure, or new entries after a portfolio drawdown. It addresses risks that separate position stops cannot see."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What is the role of a catastrophic stop?",
+    "back": "It is an emergency account-level rule for gaps, broken data, platform failure, or losses beyond the normal model envelope. It preserves the process for review after severe disruption."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What does optimization do, and what risk does it create?",
+    "back": "Optimization searches parameter values for strong historical results. Searching too many values can select random noise and create overfitting."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What is overfitting?",
+    "back": "Overfitting is tuning a rule so closely to one sample that it captures accidental details instead of a repeatable relationship. The model then tends to disappoint on new data."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "What does a robust parameter region look like?",
+    "back": "Nearby values also produce acceptable results, forming a plateau rather than one isolated peak. Robustness should also survive changes in costs, timing, universe, and market regime."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 11,
+    "front": "How should out-of-sample and walk-forward testing be used?",
+    "back": "Out-of-sample data must play no part in building or selecting the rule. Walk-forward testing repeatedly chooses parameters on one window and applies them to the next untouched window, creating a sequence of forward tests."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What does total return include?",
+    "back": "Total return includes price change plus distributions received over the measurement period. It is expressed relative to the starting investment value."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is a simple total return calculated?",
+    "back": "Subtract the beginning value from the ending value plus distributions, then divide by the beginning value. Include costs when measuring the actual investor result."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How does the arithmetic average return differ from the geometric average return?",
+    "back": "The arithmetic average adds periodic returns and divides by their count. The geometric average compounds the growth factors and reports the constant rate that links beginning and ending wealth."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What causes volatility drag?",
+    "back": "Volatility drag arises because percentage returns compound multiplicatively, so varying returns generally produce a geometric average below the arithmetic average. A loss also requires a larger percentage recovery than the size of the loss."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What is the formula for CAGR?",
+    "back": "CAGR equals (ending value / beginning value)^(1 / years) - 1. It converts compound growth over a period into a constant annual growth rate."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What does CAGR hide about a portfolio path?",
+    "back": "CAGR smooths all interim gains, losses, and drawdowns into one annual rate. Two portfolios can have the same CAGR while one experienced much greater capital damage."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is a short holding period return annualized simply?",
+    "back": "Multiply the period return by the number of such periods in a year. A 3% return over 90 days scales to 3% × 365 / 90 = 12.17% under simple annualization."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "Why should a stated annualization convention be checked?",
+    "back": "Simple and compound annualization can produce different results. Comparing a simple annualized return with a CAGR without recognizing the method can create a false ranking."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is annualized volatility estimated from daily returns?",
+    "back": "Multiply the daily return standard deviation by the square root of the number of trading periods in a year. A 1.2% daily standard deviation scales to about 19.05% with 252 periods."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What assumptions support volatility scaling?",
+    "back": "The square root scaling rule assumes returns are reasonably independent and volatility is stable. Autocorrelation, volatility clustering, and fat tails can make the estimate incomplete."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What is maximum drawdown?",
+    "back": "Maximum drawdown is the largest peak to trough percentage decline in a wealth series. It measures an experienced path loss rather than volatility around an average return."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "Why should drawdown duration be reported with maximum drawdown?",
+    "back": "Maximum drawdown gives the depth of the worst decline, while duration gives the time needed to recover or to move from peak to trough. A deep drawdown and a long recovery pose different risks."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What does downside deviation measure?",
+    "back": "Downside deviation measures dispersion below a chosen target return while assigning no downside penalty to returns at or above the target. The target and denominator convention must be stated."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is profit factor calculated?",
+    "back": "Divide gross profits from winning trades by the absolute value of gross losses from losing trades. A profit factor above 1.00 means gross profits exceeded gross losses."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "Why can profit factor mislead?",
+    "back": "It does not show required capital, trade duration, costs, or dependence on one exceptional winner. The distribution of profits and losses must be inspected with it."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is expected value per trade calculated from win rate and average outcomes?",
+    "back": "Multiply the win rate by average win, then subtract the loss rate multiplied by average loss. The result is the estimated average profit or loss per trade before costs."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What is payoff ratio?",
+    "back": "Payoff ratio is average winning trade divided by average losing trade. A high payoff ratio can make a lower win rate profitable."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What is break even win rate for a given payoff ratio?",
+    "back": "Break even win rate equals average loss divided by the sum of average win and average loss. Actual costs raise the win rate required for positive expectancy."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is average trade calculated?",
+    "back": "Divide total net profit by the number of trades. Comparisons are useful only when capital, exposure, holding periods, and sample conditions are reasonably similar."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What is maximum favorable excursion?",
+    "back": "Maximum favorable excursion is the greatest unrealized gain reached after entry in the trade's intended direction. It shows how much favorable movement was available before exit."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What is maximum adverse excursion?",
+    "back": "Maximum adverse excursion is the greatest unrealized loss reached while a trade is open. It measures how far price moved against the position before exit."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is MAE calculated for a long trade?",
+    "back": "Subtract the lowest price reached while the trade is open from the entry price. A long entered at 50 that falls to 47.20 has MAE of 2.80 per share."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What can MAE reveal about eventual winners?",
+    "back": "Large adverse movement among trades that eventually win can indicate stops are too tight or entries are poorly timed. It should be studied across a sample before changing rules."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "What can repeated surrender of MFE reveal?",
+    "back": "Large favorable excursion that is routinely given back can point to weak exit rules or slow trade management. A single trade cannot establish a reliable pattern."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is the Sharpe ratio calculated?",
+    "back": "Divide return minus the risk free rate by return standard deviation. It measures excess return per unit of total return volatility."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "Why must Sharpe ratio inputs use the same frequency?",
+    "back": "Mixing a monthly volatility with an annual risk free rate or return creates a malformed ratio. Return, risk free rate, and volatility must use matching period and annualization conventions."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is the Sortino ratio calculated?",
+    "back": "Divide return minus the target return by downside deviation. The result focuses on excess return relative to harmful variation below the stated target."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is the Calmar ratio typically calculated?",
+    "back": "Divide annualized return by the absolute value of maximum drawdown. It relates reward to the worst historical peak to trough decline, so sample length matters."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "How is the information ratio calculated?",
+    "back": "Divide active return by tracking error. Active return is portfolio return minus benchmark return, and tracking error is the standard deviation of active returns."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "Which performance ratio fits a benchmark relative mandate?",
+    "back": "The information ratio fits because it measures active return per unit of benchmark relative variability. Sharpe ratio measures absolute return per unit of total volatility."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "Which measures deserve emphasis for a trend following strategy?",
+    "back": "Inspect CAGR, maximum drawdown, drawdown duration, Calmar ratio, profit factor, and dependence on the largest winners. Such strategies often combine low win rates with large gains."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "Which risks deserve extra attention for a mean reversion strategy?",
+    "back": "Inspect Sharpe and Sortino ratios along with tail losses, maximum drawdown, holding period, and recovery time. A high win rate can coexist with infrequent losses that erase many gains."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 12,
+    "front": "Why should performance be judged on net and out of sample results?",
+    "back": "Net results include implementation costs, while out of sample results test whether a rule survives data not used to optimize it. A strong in sample ratio can be the product of curve fitting."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What does a rising relative strength ratio line show?",
+    "back": "It shows that the asset gained more or lost less than the benchmark over the measured period. It does not show that the asset's absolute price increased."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "How is a basic relative strength ratio calculated?",
+    "back": "Divide the asset price by the benchmark price after putting both series on a consistent scale. The direction and slope of the ratio matter more than the initial numerical level."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "How is relative return calculated from two absolute returns?",
+    "back": "Divide one plus the asset return by one plus the benchmark return, then subtract one. If the asset gains 5% and the benchmark gains 2%, relative return is 1.05 / 1.02 - 1 = 2.94%."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Can an asset have positive relative strength while its price falls?",
+    "back": "Yes. A stock that falls 5% while its benchmark falls 8% loses money in absolute terms but outperforms the benchmark. The analyst must describe both dimensions."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Why can a linear relative strength chart distort a long comparison?",
+    "back": "Equal absolute moves receive equal vertical space even when percentage changes differ. A logarithmic scale shows equal percentage changes as equal distances and can alter the visual reading of trend and turning points."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What is the first major issue in relative strength analysis?",
+    "back": "The denominator or benchmark must fit the decision being made. A stock can lead its sector, lag a broad index, or show a different result after currency adjustment."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What must be consistent across the numerator and denominator of a price ratio?",
+    "back": "Both series should use the same currency, date range, price adjustment convention, and data timing. Split or dividend adjustments should also be handled consistently."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "How does a relative strength ratio differ from the Relative Strength Index?",
+    "back": "The ratio compares two price series and has no fixed upper or lower bound. RSI is a bounded momentum oscillator calculated from one price series."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Can an asset have a high RSI and a falling relative strength ratio?",
+    "back": "Yes. The asset can have strong one-series momentum while still underperforming its benchmark. The labels measure different relationships."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What does the centered value of 100 mean on a JdK RS chart?",
+    "back": "It represents a neutral reading near the rolling norm used by the chart. Readings above 100 are above that norm and readings below 100 are below it."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What does JdK RS-Ratio measure?",
+    "back": "It measures the normalized level of the relative strength ratio over a rolling window. It shows where the current ratio sits relative to its recent average and dispersion."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What does JdK RS-Momentum measure?",
+    "back": "It measures the normalized speed of change in the JdK RS-Ratio rather than the speed of change in absolute price. A reading above 100 indicates rising relative momentum."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "How can an asset plot at 115 for RS-Ratio when its raw ratio is 1.25?",
+    "back": "The platform first standardizes the ratio against its rolling mean and standard deviation, then maps the resulting score around 100. Exact scaling can differ by platform."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Why can RS-Momentum turn below 100 before RS-Ratio falls below 100?",
+    "back": "Relative momentum measures the change in relative level. The ratio can remain above its norm while the pace of its rise slows or turns negative."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What are the axes of a Relative Rotation Graph?",
+    "back": "JdK RS-Ratio is on the horizontal axis and JdK RS-Momentum is on the vertical axis. Each axis is centered at 100."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Which RRG values define the Leading quadrant?",
+    "back": "Both JdK RS-Ratio and JdK RS-Momentum are above 100. The asset is relatively strong and its relative strength is still improving."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Which RRG values define the Weakening quadrant?",
+    "back": "JdK RS-Ratio is above 100 while JdK RS-Momentum is below 100. The asset remains relatively strong but its relative momentum has declined."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Which RRG values define the Lagging quadrant?",
+    "back": "Both JdK RS-Ratio and JdK RS-Momentum are below 100. The asset is relatively weak and relative momentum is negative."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Which RRG values define the Improving quadrant?",
+    "back": "JdK RS-Ratio is below 100 while JdK RS-Momentum is above 100. Relative level is still weak, but relative momentum has turned up."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What is the ideal clockwise RRG rotation?",
+    "back": "The sequence is Improving, Leading, Weakening, Lagging, then back toward Improving. The path can be irregular because market evidence changes at different speeds."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "How is a point at (97, 105) classified on an RRG?",
+    "back": "It is in Improving because RS-Ratio is below 100 and RS-Momentum is above 100. The asset is still below its recent relative norm but is gaining relative strength."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Where does the benchmark appear on an RRG?",
+    "back": "The benchmark is centered at 100 on each axis because its relative ratio with itself is constant. Every asset's coordinates are measured against that benchmark."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What happens to RRG readings when the benchmark changes?",
+    "back": "The coordinates, quadrants, and rotation paths can change because the denominator has changed. Each map must be read against one consistent benchmark."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What information does an RRG trail add beyond a single quadrant?",
+    "back": "The trail shows direction, speed, persistence, and whether the asset is entering or leaving a state. A long sustained path is stronger evidence than one point near the center."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Why is an RRG quadrant not a direct buy or sell signal?",
+    "back": "Quadrants describe relative level and relative momentum. They do not establish absolute price trend, valuation, liquidity, or portfolio risk."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What is the role of credit spreads in cross-asset analysis?",
+    "back": "They show the extra yield investors demand for corporate credit risk. Broad widening can indicate tighter financing conditions or weaker risk appetite."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Why should foreign returns be compared in one currency?",
+    "back": "Currency moves can reverse the ranking seen in local prices. A foreign index can rise locally and lose money for a domestic investor after translation."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "How can a stronger dollar affect cross-asset evidence?",
+    "back": "It can create translation pressure for exporters and dollar-priced commodities, while affecting commodity-linked currencies differently. The signal depends on the assets and mechanism."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Why should the reason for a rate move be considered?",
+    "back": "The same yield increase can reflect stronger growth, higher inflation expectations, or a changing term premium. Those causes can affect equities and credit differently."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Which three evidence types are combined in a relative asset weighting model?",
+    "back": "The model commonly combines relative strength, absolute trend, and price momentum. Each answers a different part of the leadership question."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "How is a weighted composite score calculated?",
+    "back": "Multiply each standardized or percentile input by its assigned weight, then add the contributions. With scores 80, 70, and 90 and weights 40%, 35%, and 25%, the composite is 79.0."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "Why can a relative strength ranking alone be unsuitable for a long-only portfolio?",
+    "back": "An asset can outperform a falling benchmark while still losing capital. Absolute trend and portfolio risk filters must be considered separately."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 13,
+    "front": "What confirms a sector leadership signal most strongly?",
+    "back": "A rising relative strength line combined with a healthy absolute price trend and consistent evidence from price, momentum, or market internals provides stronger confirmation."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What is account risk per trade?",
+    "back": "Account risk is the maximum planned dollar loss allowed on one trade. It is usually set as a percentage of account equity before position sizing begins."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How is stop distance measured for a long trade?",
+    "back": "Subtract the stop price from the entry price. If entry is 80 and the stop is 76.50, stop distance is 3.50 per share."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What is the position sizing formula for a long trade?",
+    "back": "For shares, divide planned account risk by stop distance. For contracts, divide by price distance multiplied by the contract multiplier or point value. Round down to whole units."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "Why is position value not the same as trade risk?",
+    "back": "Position value is the full market value controlled, while planned trade risk is only the loss from entry to the stop. A large position with a tight stop can have limited planned risk."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How is position size calculated for a short sale?",
+    "back": "Divide the risk budget by the amount the stop is above the short entry. Entering at 120 with a 126.75 stop creates 6.75 of risk per share."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What should determine the initial stop distance?",
+    "back": "The price where the setup is genuinely invalidated should determine the stop. The stop should also allow the normal noise seen in similar trades."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How is an ATR stop distance set?",
+    "back": "Multiply ATR by a chosen multiple that reflects the trade timeframe and normal noise. A 2.5 ATR stop with 2.00 ATR places the stop 5.00 away before entry slippage."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What is a technical stop?",
+    "back": "A technical stop is placed beyond a chart level whose failure rejects the trade. Examples include a prior swing low, pattern neckline, or failed support."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How does a trailing stop work?",
+    "back": "A trailing stop moves in the favorable direction and does not move against the position. It can follow higher lows or trail a chosen ATR distance behind price."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What is a time stop?",
+    "back": "A time stop exits a trade when the expected price move has not occurred within a specified number of bars. It prevents a stalled thesis from using capital indefinitely."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "Why is a stop not a guaranteed maximum loss?",
+    "back": "Price can gap through the stop or fill with slippage after activation. Position sizing must consider a loss larger than the distance to the stated stop."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How is reward to risk calculated for a long trade?",
+    "back": "Divide target minus entry by entry minus stop. An 8.00 target gain with 4.00 of risk gives reward to risk of 2.0 to 1."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What makes a price target technically defensible?",
+    "back": "A defensible target comes from chart evidence such as a measured move, prior supply zone, pattern projection, or confluence level. Its reward must reflect a realistic obstacle."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What is the break even win rate for a fixed reward to risk ratio?",
+    "back": "It is 1 divided by 1 plus the reward to risk ratio. A 3 to 1 ratio has a 25% break even win rate before transaction costs."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How is trade expectancy calculated?",
+    "back": "Multiply win rate by average win and subtract loss rate multiplied by average loss. A 45% win rate with 1,200 average win and 500 average loss yields 265 per trade."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "Why can a high win rate still lose money?",
+    "back": "One or more losses can be much larger than the frequent small gains. Expectancy and loss size matter more than the winning percentage by itself."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How does leverage affect an account loss?",
+    "back": "Leverage multiplies the percentage gain or loss in the underlying asset. Three times exposure to a 10% decline produces about a 30% account loss before costs."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What percentage gain recovers a 20% loss?",
+    "back": "A 20% loss leaves 80% of the original wealth. Reaching the prior high requires 20 / 80 = 25%, because the gain starts from a smaller base."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What percentage gain recovers a 40% loss?",
+    "back": "A 40% loss leaves 60% of the original wealth. It requires a 66.7% gain because 40 / 60 = 0.667."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "Why is drawdown recovery asymmetric?",
+    "back": "A loss reduces the capital base on which the recovery gain is calculated. Larger losses therefore require progressively larger percentage gains to regain the prior peak."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How does leverage affect survival probability?",
+    "back": "Leverage enlarges losses and can trigger margin calls or forced sales during ordinary volatility. Survival depends on the worst sequence of losses, gaps, and financing costs."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What is portfolio heat?",
+    "back": "Portfolio heat is the sum of planned losses across open positions if their current stops are reached. It is usually compared with total account equity."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How is portfolio heat calculated in percentage terms?",
+    "back": "Divide total planned dollar loss by account equity. Planned losses of 4,000 on a 100,000 account equal 4.0% heat."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "Why can portfolio heat understate simultaneous risk?",
+    "back": "Heated positions may share a sector, factor, currency, or liquidity shock. Correlated stops can gap at the same time instead of occurring independently."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What is risk contribution?",
+    "back": "Risk contribution is the amount of portfolio risk supplied by a position or group of positions. A small allocation to a volatile asset can contribute more risk than a larger allocation to a quiet asset."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "Why does diversification fail in some market shocks?",
+    "back": "Correlations can rise when stressed positions are sold together. Assets that seemed independent in a calm sample may become one common source of loss."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What is gap risk in a trade plan?",
+    "back": "Gap risk is the chance that the market opens beyond the stop price. The actual exit loss can be much larger than the planned entry to stop distance."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How should a stress test differ from a normal stop calculation?",
+    "back": "A stress test assumes the stop is skipped or filled far away under a plausible shock. It estimates the account result from gap, correlation, and liquidity pressure."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "Why is liquidity risk part of position sizing?",
+    "back": "A position that is large relative to available volume may move the price during entry or exit. Market impact and wider spreads raise the loss beyond the chart based stop."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What does model failure mean in risk management?",
+    "back": "Model failure means the rule no longer performs within its tested environment or its assumptions break. Position and drawdown limits should protect the account while the evidence is reassessed."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How is a volatility targeting exposure multiplier calculated?",
+    "back": "Divide target volatility by estimated asset volatility. A 10% target with 20% estimated volatility gives a 0.50 exposure multiplier."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "How can signal quality affect position size?",
+    "back": "Stronger evidence can receive more of the risk budget than a marginal setup, provided the adjustment follows prewritten rules. Every tier still needs a hard maximum."
+  },
+  {
+    "domain": "advanced_techniques",
+    "chapter": 14,
+    "front": "What should a complete pre trade risk plan include?",
+    "back": "It should name entry, invalidation, size, maximum planned loss, target, reward to risk, heat, leverage, stress loss, and the evidence that cancels the trade."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why should a technical trade plan rank the evidence?",
+    "back": "The plan should identify primary evidence, confirming evidence, conflicts, and the event that falsifies the thesis. Ranking keeps a minor indicator from overriding market structure."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What is usually the primary evidence for a trend-following setup?",
+    "back": "Price structure and the direction of the established trend are primary. Volume and momentum can confirm the trend, while sentiment and volatility check crowding and risk."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What does heavy breakout volume with a close near the session high show?",
+    "back": "It shows demand accepting the higher price during the session. Heavy volume with a weak close instead suggests that supply absorbed the breakout attempt."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why is broadening breadth useful evidence at an index high?",
+    "back": "It shows that more stocks are participating instead of a small group carrying the index. Narrow leadership makes the new high less reliable."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "How should a high RSI be read inside a persistent uptrend?",
+    "back": "It can signal persistent strength rather than an automatic reversal. An overbought reading matters more as a warning when price structure also weakens."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What is the best use of an extreme sentiment reading?",
+    "back": "Use it as a measure of crowded positioning and vulnerability. Price rejection or a failed breakout provides the timing evidence."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "How does volatility affect position sizing?",
+    "back": "Higher volatility requires a wider stop for the same technical invalidation or a smaller position for the same dollar risk. Volatility changes the size of normal price swings."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What makes an entry rule objective?",
+    "back": "It states an observable event that must occur before capital is committed, such as a close above resistance with confirming volume. A general bullish opinion is not an entry rule."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "How does thesis invalidation differ from a protective stop?",
+    "back": "Invalidation is the market event that makes the original evidence false. The protective stop is an order placed beyond that event with a buffer for noise and execution."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What two jobs should an exit plan perform?",
+    "back": "One exit captures the planned target and another protects profit as the trade develops. Each exit should have a stated technical or time based reason."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Entry is 99, invalidation is 95.50, and the target is 107. What is the reward to risk ratio?",
+    "back": "The reward is 8.00 points and the risk is 3.50 points. The ratio is 8.00 divided by 3.50, or 2.29."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What formula converts account risk into a basic share count?",
+    "back": "Shares equal the account equity times the risk fraction, divided by risk per share. Round down to avoid exceeding the dollar risk budget."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "A position is 50 percent of a portfolio and has a 4 percent stop. What is the portfolio loss before slippage?",
+    "back": "The portfolio loss is 50 percent times 4 percent, or 2 percent. Position weight scales the impact of the stop."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "With three times equity exposure, what asset decline produces a 10 percent account loss?",
+    "back": "The asset decline is 10 percent divided by 3, or about 3.3 percent. Leverage magnifies the account impact of the price move."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why can several separate charts still create one concentrated risk?",
+    "back": "They may share the same sector, factor, currency, or liquidity exposure. Aggregate those common risks instead of treating each chart as independent."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why is a positive backtest insufficient evidence for using a model?",
+    "back": "The test may reflect overfitting, costs, limited capacity, or unusual market conditions. Out of sample results and current regime fit must also be reviewed."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What is an example of a model and decision purpose mismatch?",
+    "back": "A short horizon trend model used for a monthly allocation is poorly aligned with its purpose. The signal horizon should match the decision horizon."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What does out of sample mean in model testing?",
+    "back": "It means testing on data that was not used to build the model or choose its parameters. It provides a cleaner test of whether the rule has general value."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What is parameter robustness?",
+    "back": "Robustness means similar parameter values produce reasonably similar results. A narrow peak of spectacular performance is less credible than a broad stable region."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What is regime fit in model suitability?",
+    "back": "Regime fit asks whether current volatility, trend, liquidity, and correlation conditions resemble the conditions in which the model was tested. A valid historical model can be unsuitable in a different environment."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What actions can follow a model suitability review?",
+    "back": "The analyst can use the model at normal size, use it at reduced size, pause it for more evidence, or reject its output. Rejection is a valid decision."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "How does relative strength differ from RSI?",
+    "back": "Relative strength compares an asset with a benchmark, while RSI measures the asset's own momentum. A relative strength line can rise while both the asset and benchmark fall."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why combine relative strength, trend, and momentum in an asset ranking?",
+    "back": "The three measures answer different questions about leadership, direction, and speed. A blend can separate improving leadership from a rally driven only by the market."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Three assets have volatilities of 20, 25, and 50 percent. What do inverse volatility weights show?",
+    "back": "The inverse values are 5, 4, and 2, which give weights of 45.5, 36.4, and 18.2 percent. The least volatile asset receives the largest raw weight."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why apply a concentration cap after calculating model weights?",
+    "back": "A cap prevents one high score or low volatility estimate from creating excessive single asset risk. The excess weight must be assigned by a documented rule or held in cash."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "When should a ranked asset be removed from a portfolio?",
+    "back": "Common exits include a sustained drop below the eligibility rank, a trend failure, or a confirmed turn in relative strength. Periodic review keeps the portfolio aligned with the model."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "VIX is 24. What is the approximate 30 day one standard deviation move?",
+    "back": "The move is 24 divided by the square root of 12, which equals 6.93 percent. This uses the conventional 12 periods per year shortcut."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "VIX is 24. What is the approximate one day implied move?",
+    "back": "The move is 24 divided by the square root of 252, which equals about 1.51 percent. The estimate is a range input, not a guarantee."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What is a major limitation of a VIX based price forecast?",
+    "back": "It describes a range under model assumptions and does not reveal direction. The volatility estimate can also change before the forecast horizon ends."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Support is 94, resistance is 106, and ATR is 2.50. How many ATRs is the target move?",
+    "back": "The distance is 12 points and 12 divided by 2.50 equals 4.8 ATRs. The analyst can use that value to judge whether the target is realistic for the holding period."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why can a stop only 0.4 percent from entry be unreliable when the daily implied move is 1.5 percent?",
+    "back": "Ordinary daily noise is much larger than the stop distance. A wider technical stop requires a smaller position to keep account risk controlled."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What does a Bollinger BandWidth squeeze actually identify?",
+    "back": "It identifies contracted volatility and the possibility of expansion. It does not identify the direction of the eventual break."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "How should price structure and a lagging oscillator conflict be resolved?",
+    "back": "Price structure normally carries more weight than a minor lagging oscillator conflict. A break of the main trend changes the thesis more than a temporary momentum wobble."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "In what order should integrated evidence be reviewed?",
+    "back": "Review regime and price confirmation first, then participation, positioning, volatility, and model fit. This order prevents sentiment from overriding a failed setup."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why does an extreme sentiment reading support waiting for price confirmation?",
+    "back": "Crowding shows vulnerability but does not show timing. A failed breakout or reversal close connects the positioning evidence to an actionable signal."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why must trade process be reviewed separately from profit or loss?",
+    "back": "A good process can lose and a poor process can win by chance. Rewarding a poor process because one outcome was favorable encourages repetition of the error."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What does maximum adverse excursion measure?",
+    "back": "It measures how far a trade moved against entry before it closed. A deep adverse move can reveal an early entry, a tight stop, or excessive size."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What does maximum favorable excursion help review?",
+    "back": "It measures how far a trade moved in the intended direction during its life. Comparing it with the exit can show whether the exit process captured available profit."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "How should an analyst choose between two defensible trade plans?",
+    "back": "Choose the plan with the clearer trigger, stronger evidence alignment, better defined invalidation, and more appropriate size. Both plans can be reasonable while one better fits the facts."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why reduce a breakout model when VIX is above its tested range?",
+    "back": "Higher volatility increases gap and stop out risk while reducing the reliability of the historical breakout pattern. Reduced size keeps the plan inside its tested assumptions."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "How should a bearish pattern be managed when put call sentiment is already extremely bearish?",
+    "back": "Treat the pattern as valid only after its price trigger and reduce exposure for squeeze risk. A smaller position respects the conflict between technical weakness and crowded short positioning."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why can an earnings date make a valid pattern model unsuitable overnight?",
+    "back": "An event gap can jump past the planned stop and create losses larger than the tested model assumes. Postponing the trade keeps the process inside its risk limits."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "When should volatility scaling reduce a position even if the dollar stop remains valid?",
+    "back": "Reduce size when the position would contribute too much forecast portfolio volatility or gap risk. A valid stop does not by itself make the exposure suitable."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why is a confirmed trigger stronger than entering from anticipation?",
+    "back": "The trigger shows that buyers or sellers have accepted the new price area. Anticipation commits risk before the setup has earned confirmation."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "A basic size is 333 shares and gap risk requires a 50 percent reduction. What is the adjusted size?",
+    "back": "The adjusted size is 333 times 0.50, which equals 166.5 shares. Round down to 166 shares."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What evidence can justify rejecting a profitable backtest?",
+    "back": "Reject or pause it when out of sample results fail, costs erase the edge, capacity is poor, parameter stability is weak, or current conditions are far outside the test regime. A profitable sample does not prove implementation suitability."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What elements belong in a complete integrated trade plan?",
+    "back": "The plan should state the thesis, entry trigger, exit targets, invalidation event, position size, portfolio exposure, and model suitability. It should also include the evidence that would change the view."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "Why can a rising relative strength line occur in a falling market?",
+    "back": "The asset can fall less than its benchmark while still losing price. Relative strength measures comparative performance rather than absolute direction."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "How should a plan respond when volatility expands before the entry trigger?",
+    "back": "Reassess the stop distance, target distance, and position size before committing capital. If the revised risk no longer supports the objective, cancel the plan."
+  },
+  {
+    "domain": "application_of_technical_analysis",
+    "chapter": 15,
+    "front": "What connects the evidence in a strong applied technical answer?",
+    "back": "The answer should connect evidence, trigger, invalidation, size, and model suitability into one consistent decision. A direction alone is not a complete trade plan."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "Which professional framework applies to the CMT ethics questions?",
+    "back": "The CMT Association uses the CFA Institute Code of Ethics and Standards of Professional Conduct. The CMT Association states that references to CFA Institute members, candidates, and programs apply to the CMT Association and its members, candidates, and programs."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "What six broad commitments appear in the Code of Ethics?",
+    "back": "The Code requires integrity, competence, diligence, respect, and ethical conduct. It also requires client interests and professional integrity to come before personal interests, independent judgment, ethical leadership, support for sound global markets, and continuing competence."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "How should a professional act when a law and the Code conflict?",
+    "back": "The professional must comply with the stricter requirement. The professional must also avoid knowingly participating in or assisting a violation and must dissociate from continuing misconduct."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "What does the Competence standard require?",
+    "back": "A member or candidate must possess and maintain the competence needed to perform professional responsibilities. An unfamiliar model or product should not be used for clients until the professional has adequate knowledge and support."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "When does a gift threaten independence and objectivity?",
+    "back": "A gift is prohibited when it could reasonably be expected to compromise professional judgment. Source, purpose, timing, frequency, and value all matter, so disclosure alone may not fix a lavish issuer-paid benefit."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "What must an analyst do after receiving material nonpublic information?",
+    "back": "The analyst must not trade, change a recommendation, or cause others to act on the information. The analyst should involve compliance and encourage the issuer to make prompt public disclosure."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "How does mosaic theory permit an analyst to reach a material-looking conclusion?",
+    "back": "The analyst may combine public information, nonmaterial nonpublic observations, and independent analysis. The defense fails when the analyst uses material nonpublic information, so source records matter."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "What conduct counts as market manipulation?",
+    "back": "Market manipulation is conduct intended to mislead participants by distorting prices or trading volume. Examples include false rumors and orders placed solely to create a false appearance of demand."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "Why does fair dealing not mean identical treatment?",
+    "back": "Clients may have different objectives and may choose disclosed service levels. Fair dealing means no favored client receives an unfair timing or allocation advantage and suitable clients share opportunities through documented methods."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "What evidence is needed before judging a security suitable for a client?",
+    "back": "The professional must understand the client's experience, return needs, risk tolerance, and financial constraints, then update them regularly. The security should fit the written objectives and constraints and be judged within the client's total portfolio."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "When may client information be disclosed?",
+    "back": "Client information can be disclosed when the client permits it, when law requires it, or when the information concerns illegal activity. Otherwise, current, former, and prospective client information remains confidential."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "What are the main duties to an employer and a supervisor?",
+    "back": "Professionals must act for the employer's benefit and obtain written consent from all parties for competing outside compensation. Supervisors must establish reasonable procedures, train and monitor staff, and investigate and limit possible violations promptly."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "What does full and fair conflict disclosure require?",
+    "back": "The disclosure must be prominent, understandable, and effective before affected clients make a decision. Client and employer transactions also take priority over personal transactions, and referral benefits paid or received must be disclosed as appropriate."
+  },
+  {
+    "domain": "ethics",
+    "chapter": 16,
+    "front": "How may a CMT candidate refer to program status?",
+    "back": "A candidate must name the exact level, such as CMT Level II Exam Candidate. A person who passes Level II may identify as a Level III candidate only while currently enrolled and eligible, or after completing the program while awaiting the designation. Only a charterholder may use the CMT credential."
+  }
+]
